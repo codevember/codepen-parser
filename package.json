@@ -1,0 +1,15 @@
+{
+  "name": "codepen-parser",
+  "version": "1.0.0",
+  "description": "Codepen search parser to save contributions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Valentin Daguenet <valentin.daguenet@gmail.com> (http://vdaguenet.fr/)",
+  "license": "MIT",
+  "dependencies": {
+    "backend-api": "github:codevember/backend-api",
+    "phantom": "^4.0.5"
+  }
+}

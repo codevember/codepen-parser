@@ -2,7 +2,7 @@ const config = require('./config/database.js')
 const parse = require('./src/page-parser.js')
 const Backend = require('backend-api')
 
-const MAX_EXISTING_PEN = 3
+const MAX_EXISTING_PEN = 5
 
 let page = 1
 let existingPenCount = 0
